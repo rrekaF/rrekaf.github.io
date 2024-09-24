@@ -21,7 +21,6 @@ body{
 	flex-direction: row;
 	justify-content: space-between;
 	width: 100%;
-	padding: 10px;
 }
 
 .pfp{
@@ -35,7 +34,6 @@ body{
 	opacity: 25%;
 }
 .plan9history a{
-	opacity: 100%;
 	color: lightblue;
 }
 .marquee {
