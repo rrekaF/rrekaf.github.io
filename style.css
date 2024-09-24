@@ -28,6 +28,7 @@ body{
 }
 .bio{
 	margin-left: 10px;
+	font-size: 22px;
 }
 
 .plan9history{
@@ -44,6 +45,7 @@ body{
 	overflow: hidden;
 	white-space: nowrap;
 	box-sizing: border-box;
+	font-size: 20px;
   }
 
   .marquee-content {
